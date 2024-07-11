@@ -1,0 +1,9 @@
+.footer_gl {
+    border: 2px solid black;
+    padding: 1rem;
+    max-width: 37.5rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
