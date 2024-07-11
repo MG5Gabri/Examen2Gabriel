@@ -1,0 +1,15 @@
+.header_gl {
+    padding: 1rem;
+    max-width: 37.5rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+.btnn_gl {
+    width: 8rem;
+    height: 3rem;
+    background-color: rgb(15, 14, 14);
+    color: gainsboro;
+}
